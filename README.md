@@ -1,5 +1,7 @@
 # sljeme.usud.hr Files Downloader
 
+Built by [Talha Pythoneer](https://www.talhapythoneer.com), web scraping and AI agents.
+
 Scrapes decisions from the Croatian Constitutional Court's "Prema datumu
 donosenja odluka" (by decision date) archive and downloads all attached
 files locally.
